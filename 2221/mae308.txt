@@ -1,0 +1,19 @@
+Fluid Mechanics
+MAE 308-002
+01/11/2022, 04/21/2022
+TTH, 1:30-2:45
+04/28/2022, 12:00-2:30
+Dr. Tiegang Fang
+Brandon McClenathan
+3
+A+,   A,    A-,   B+,   B,    B-,   C+,   C,   C-,   D+,   D,    D-,   F
+4.33, 4.00, 3.67, 3.33, 3.00, 2.67, 2.33, 2.0, 1.67, 1.33, 1.00, 0.67, 0.00
+97,   93,   90,   87,   83,   80,   77,   73,  70,   67,   63,   60,   0
+Homework, Midterm Exams, Final Exam
+15, 50, 35
+HW1, HW2, HW3
+100, 100, 100
+Test 1, Test 2
+NA, NA
+Final Exam
+NA

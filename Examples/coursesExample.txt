@@ -1,0 +1,3 @@
+Year, Semester, User
+Courses
+File paths

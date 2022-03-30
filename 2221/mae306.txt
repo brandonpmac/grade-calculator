@@ -1,0 +1,15 @@
+Mechanical Engineering Lab 2
+MAE 306-208
+02/01/2022, 04/11/2022
+T, 3:00-4:50
+NA, NA
+Dr. Jandeep Pandit 
+Brandon McClenathan
+1
+A+,   A,    A-,   B+,   B,    B-,   C+,   C,   C-,   D+,   D,    D-,   F
+4.33, 4.00, 3.67, 3.33, 3.00, 2.67, 2.33, 2.0, 1.67, 1.33, 1.00, 0.67, 0.00
+97,   93,   90,   87,   83,   80,   77,   73,  70,   67,   63,   60,   0
+Lab Reports
+100
+Lab 1, Lab 2, Lab 3, Lab 4, Lab 5, Lab 6, Lab 7
+100,   100,   NA,    NA,    NA,    NA,    NA

@@ -1,0 +1,16 @@
+Course Name
+Course Title (w/section number)
+Class Start Date, Class End Date
+Class Days, Class Time
+Course Instructor
+Final Date, Final Time
+Credits
+Weights letter
+Weight number
+Section names 	[1,2,...,n]
+Section weights	[1,2,...,n]
+Section 1 Assignment Names
+Section 1 Assignment Grades
+...
+Section n Assignment Names
+Section n Assignment Grades
